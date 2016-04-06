@@ -5,6 +5,8 @@
 	Suggested further development - design adjustments of the following glyphs to fit the overall style:
 	Euro, yen, dollar, ampersand, section, copyright, registered, at
 
+![Unifraktur Cook](src/sample.png)
+
 Unifraktur Cook FontLog
 =======================
 
